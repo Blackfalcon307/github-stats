@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+github_report.txt
+.env
